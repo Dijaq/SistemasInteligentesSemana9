@@ -1,4 +1,4 @@
-# SistemasInteligentesSemana9
+# Sistemas Inteligentes Semana9
 
 - La siguiente Bayesian Network fue generada en base al modelo de StudentBayesianNetwork.
 - Se hizo una implementación del método de VariableElimination y las probabilidades 
